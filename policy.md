@@ -9,13 +9,12 @@ When you use BubblePay, we may collect the following information:
 
 - **Personal Information**: Name, email address, phone number, and payment details.
 - **Usage Information**: Information about how you interact with our platform, including your IP address, browser type, device details, and pages visited.
-- **Payment Information**: Card details, transaction records, and billing information.
 
 ## 2. **How We Use Your Information**
 We use the information we collect to:
 
 - Provide and improve our services.
-- Process your transactions securely.
+- Process your automations securely.
 - Personalize your experience on our platform.
 - Communicate with you regarding updates, promotions, and customer support.
 - Comply with legal obligations.
@@ -65,5 +64,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ## 10. **Contact Us**
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Email:** privacy@bubblepay.store  
-**Phone:** +234-7061-413-551
+**Email:** privacy@bubblepay.store
